@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/square-root/1?page=8&sortBy=submissions">Square root of a number</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an integer <strong>x,</strong>&nbsp;find the square root of x. If <strong>x</strong> is not a perfect square, then return floor(√x).</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/square-root/0">Square root of a number</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an integer <strong>x,</strong>&nbsp;find the square root of x. If <strong>x</strong> is not a perfect square, then return floor(√x).</span></p>
 
 <p>&nbsp;</p>
 
