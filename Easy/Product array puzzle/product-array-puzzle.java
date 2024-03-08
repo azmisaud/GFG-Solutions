@@ -42,14 +42,12 @@ class Solution
         // code here
         long[] productArray=new long[n];
         long product=1;
-        boolean containsZero=false;
         int count=0;
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
                 product*=nums[i];
             }
             if(nums[i]==0){
-                containsZero=true;
                 count++;
             }
         }
